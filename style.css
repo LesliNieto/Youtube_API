@@ -1,0 +1,36 @@
+h1, h4, pre{
+  color: white;
+}
+
+#query{
+  width: 300px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+button{
+  font-size: 13px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: white;
+  border-radius: 10px;
+  width: 7%;
+  height: 10%;
+}
+
+body {
+  background-image: url(images/background.jpg);
+  background-attachment: fixed;
+  background-position: center ;
+  text-align:center;
+}
+
+#video{
+  text-align:center;
+}
+
+#player{
+  width: 650px;
+  height: 450px;
+}
